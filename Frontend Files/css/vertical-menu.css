@@ -1,0 +1,36 @@
+.vertical-menu{
+width: 200px;
+position: fixed;
+z-index: 1;
+top: 115px;
+bottom: 10px;
+left: 0px;
+background: #eee;
+overflow-x: hidden;
+}
+.vertical-menu a {
+    background-color: #eee;
+    color: black;
+    display: block;
+    padding: 19px;
+    text-decoration: none;
+}
+.vertical-menu a:hover {
+    background-color: #ccc;
+}
+.vertical-menu a.active {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+}
+.vertical-menu a.inactive {
+    background-color: Blue;
+    color: white;
+    font-weight: bold;
+}
+.i2center {
+    margin-left: 48%;
+    margin-right: 30%;
+    margin-top: 0%;
+    width: 15.5%;
+}
