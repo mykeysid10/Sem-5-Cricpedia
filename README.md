@@ -1,10 +1,10 @@
 # Sem-5-DBMS-Cricpedia
  MiniProj | Domain: DBMS & Web Development | [Cricpedia](https://cricpedia-by-infy.000webhostapp.com)
 
-#### Aim: To build a basic Cricket Website
+### Aim: To build a basic Cricket Website
 
 #### Step 1: ER diagram 
 
 #### Step 2: Database Design (phpmyadmin)
 
-#### Step 3: Front end connectivity with backend (html + css + php)
+#### Step 3: FrontEnd connectivity with BackEnd (html + css + php)
