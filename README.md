@@ -3,7 +3,7 @@
 
 ### Aim: To build a basic Cricket Website
 
-#### Step 1: [ER Diagram](ER Diagram.png)
+#### Step 1: Entity Relationship Diagram
 
 #### Step 2: [Database Design](cricpedia.sql)
 
