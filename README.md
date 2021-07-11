@@ -3,8 +3,8 @@
 
 ### Aim: To build a basic Cricket Website
 
-#### Step 1: ER diagram 
+#### Step 1: [ER Diagram](ER Diagram.png)
 
-#### Step 2: Database Design (phpmyadmin)
+#### Step 2: [Database Design](cricpedia.sql)
 
 #### Step 3: FrontEnd connectivity with BackEnd (html + css + php)
